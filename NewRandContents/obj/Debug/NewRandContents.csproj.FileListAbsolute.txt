@@ -1,0 +1,15 @@
+C:\Users\kyuur\OneDrive\ドキュメント\GitHub\NewRandContents\NewRandContents\bin\Debug\NewRandContents.exe.config
+C:\Users\kyuur\OneDrive\ドキュメント\GitHub\NewRandContents\NewRandContents\bin\Debug\NewRandContents.exe
+C:\Users\kyuur\OneDrive\ドキュメント\GitHub\NewRandContents\NewRandContents\bin\Debug\NewRandContents.pdb
+C:\Users\kyuur\OneDrive\ドキュメント\GitHub\NewRandContents\NewRandContents\obj\Debug\NewRandContents.csproj.AssemblyReference.cache
+C:\Users\kyuur\OneDrive\ドキュメント\GitHub\NewRandContents\NewRandContents\obj\Debug\NewRandContents.csproj.SuggestedBindingRedirects.cache
+C:\Users\kyuur\OneDrive\ドキュメント\GitHub\NewRandContents\NewRandContents\obj\Debug\NewRandContents.csproj.CoreCompileInputs.cache
+C:\Users\kyuur\OneDrive\ドキュメント\GitHub\NewRandContents\NewRandContents\obj\Debug\NewRandContents.exe
+C:\Users\kyuur\OneDrive\ドキュメント\GitHub\NewRandContents\NewRandContents\obj\Debug\NewRandContents.pdb
+C:\Users\kyuur\Desktop\NewRandContents\NewRandContents\obj\Debug\NewRandContents.csproj.AssemblyReference.cache
+C:\Users\kyuur\Desktop\NewRandContents\NewRandContents\obj\Debug\NewRandContents.csproj.CoreCompileInputs.cache
+C:\Users\kyuur\Desktop\NewRandContents\NewRandContents\obj\Debug\NewRandContents.exe
+C:\Users\kyuur\Desktop\NewRandContents\NewRandContents\obj\Debug\NewRandContents.pdb
+C:\Users\kyuur\Desktop\NewRandContents\NewRandContents\bin\Debug\NewRandContents.exe.config
+C:\Users\kyuur\Desktop\NewRandContents\NewRandContents\bin\Debug\NewRandContents.exe
+C:\Users\kyuur\Desktop\NewRandContents\NewRandContents\bin\Debug\NewRandContents.pdb
